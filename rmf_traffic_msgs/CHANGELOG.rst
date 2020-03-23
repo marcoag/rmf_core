@@ -2,8 +2,8 @@
 Changelog for package rmf_traffic_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.1 (2020-03-23)
+------------------
 * more packages to match version
 * Contributors: Marco A. Gutierrez
 
