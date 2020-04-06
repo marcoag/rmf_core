@@ -2,6 +2,14 @@
 Changelog for package rmf_fleet_adapter
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Merge https://github.com/osrf/rmf_core
+* multiple deliveries (`#88 <https://github.com/marcoag/rmf_core/issues/88>`_)
+  * implement multiple deliveries
+  * refactor to be consistent with rmf_core coding format
+* Contributors: Charayaphan Nakorn Boon Han, Marco A. Gutierrez
+
 0.0.1 (2020-03-23)
 ------------------
 
