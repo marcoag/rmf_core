@@ -4,6 +4,7 @@ Changelog for package rmf_fleet_adapter
 
 Forthcoming
 -----------
+
 * Merge https://github.com/osrf/rmf_core
 * multiple deliveries (`#88 <https://github.com/marcoag/rmf_core/issues/88>`_)
   * implement multiple deliveries

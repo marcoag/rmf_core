@@ -4,6 +4,7 @@ Changelog for package rmf_lift_msgs
 
 Forthcoming
 -----------
+
 * geometry_msgs package is not used removing from cmake
 * Contributors: Marco A. Gutierrez
 
